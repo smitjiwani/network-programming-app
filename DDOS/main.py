@@ -1,9 +1,9 @@
 import threading
 import socket
 
-target = '  ' # Enter the target IP address
-port = 21
-fake_ip = '  ' # Enter the fake IP address
+target = '192.168.124.117' # Enter the target IP address
+port = 5400 # Enter the target port
+fake_ip = '128.0.0.208' # Enter the fake IP address
 
 already_connected = 0
 
